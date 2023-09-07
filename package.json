@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "a place to house all of my works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estizzle/portfolio.git"
+  },
+  "author": "Eston Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estizzle/portfolio/issues"
+  },
+  "homepage": "https://github.com/estizzle/portfolio#readme",
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
